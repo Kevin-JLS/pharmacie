@@ -1,0 +1,17 @@
+{
+    "name": "kevin/pharmacie",
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/",
+            "Router\\": "routes/",
+            "Database\\": "database/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Kevin",
+            "email": "kevin.jollis33@gmail.com"
+        }
+    ],
+    "require": {}
+}
